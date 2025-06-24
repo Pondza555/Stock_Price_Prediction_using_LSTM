@@ -1,0 +1,30 @@
+# ไฟล์ Python ทั่วไป
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# ไฟล์ Jupyter Notebook output (optional)
+*.nbconvert.ipynb
+
+# ไฟล์ model ที่ไม่ควร push
+*.pt
+*.pth
+*.h5
+
+# ไฟล์ environment
+.env
+.venv/
+env/
+venv/
+pip-log.txt
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
