@@ -52,8 +52,8 @@ This project builds and evaluates LSTM (Long Short-Term Memory) deep learning mo
   | Nasdaq  | ~580    | ~620    |
   | SET     | ~8.9    | ~11.5   |
 
-  ✅ **Best model performance:** SET index — lowest RMSE relative to price scale.
-  ⚠️ **Weakest performance:** Bitcoin — high volatility makes price prediction challenging with price-only features.
+  - ✅ **Best model performance:** SET index — lowest RMSE relative to price scale.
+  - ⚠️ **Weakest performance:** Bitcoin — high volatility makes price prediction challenging with price-only features.
 
   **3-Day Forecast (as of late May 2025):**
   - SET: predicted to increase slightly (t+1: ~1163.8, t+2: ~1164.6, t+3: ~1166.3)
